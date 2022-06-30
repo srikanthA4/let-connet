@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://srikanth:3hCM2MBi3qi6SoCE@cluster0.qpzjn.mongodb.net/test",
+    "jwtSecret":"",
+    "githubToken":"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",
+    "NODE_ENV": ""
+}
