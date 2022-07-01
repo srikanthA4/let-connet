@@ -1,4 +1,4 @@
-# iet-connect
+# let-connect
 For client code [click](https://github.com/srikanthA4/let-connet/tree/main/client)
 
 For server code [click](https://github.com/srikanthA4/let-connet)
