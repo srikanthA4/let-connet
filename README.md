@@ -13,7 +13,7 @@ Link to Website: https://iet-community.herokuapp.com/
 }
 ```
 
-### Install server dependencies
+//### Install server dependencies
 
 ```bash
 npm install
