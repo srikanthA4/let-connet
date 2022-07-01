@@ -1,5 +1,8 @@
 # iet-connect
-For client git(https://github.com/srikanthA4/let-connet/tree/main/client)
+For client code [click](https://github.com/srikanthA4/let-connet/tree/main/client)
+
+For server code [click]
+
 Link to Website: https://iet-community.herokuapp.com/
 ## Quick Start 🚀
 
